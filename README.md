@@ -8,5 +8,7 @@ Code, experiments, and results from our paper on a comparative study of adaptati
 ---
 
 *  🤗  [Available models and datasets](https://huggingface.co/ik-ram28)
+*  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+
 
 
