@@ -3,6 +3,8 @@
 
 # 🤗  [Available models and datasets](https://huggingface.co/ik-ram28)
 
+[Paper](https://talnarchives.atala.org/TALN/TALN-2025/42.pdf) 
+
 ## Repository under construction
 ---
 
